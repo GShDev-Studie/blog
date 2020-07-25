@@ -1,7 +1,7 @@
 var config = {};
 
-config.blogName = 'myBlog';
-config.url = 'http://localhost/';
+config.blogName = 'Blog Te';
+config.url = 'https://blog-te.herokuapp.com';
 
 config.rss = {
   title:        'My RSS Feed',
